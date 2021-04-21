@@ -7,12 +7,7 @@
 </p>
 
 ---
-✨  I am a pre-final year undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
-I aim to create a lasting impact on people who are just beginning to explore their professional technical education. I am actively working to share my experiences and learnings with my peers and every community of synergetic individuals who wish to make a difference.  
+✨  I am a CSE undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 
-- 🔭 I’m currently working on full-stack development
-- 🌱 I’m currently beginning with ML/DL
-- 😄 I’m looking to collaborate for large scale community-focused technical-education initiatives, hackathons and webinars.    
+- ✨ Please head over to my original account - [@aashaypalliwar](https://github.com/aashaypalliwar) - The user-account you are currently viewing is not actively being used.
 - 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
-- ✨ [Neuromancers - IIT Bhubaneswar](https://github.com/NeuromancersIITBBS) : Find my team projects here!
-- ✨ [@aashaypalliwar](https://github.com/aashaypalliwar) : My old GitHub account
