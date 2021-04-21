@@ -9,5 +9,6 @@
 ---
 ✨  I am an undergraduate student of Computer Science and Engineering at IIT Bhubaneswar.
 
-- ✨ Please head over to my original account - [@aashaypalliwar](https://github.com/aashaypalliwar) - The user-account you are currently viewing is not actively being used.
-- 📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
+✨ Please head over to my original account - [@aashaypalliwar](https://github.com/aashaypalliwar) - The user-account you are currently viewing is not actively being used.
+
+📫 Reach me by mailing to: [palliwar.aashay@gmail.com](mailto:palliwar.aashay@gmail.com)
